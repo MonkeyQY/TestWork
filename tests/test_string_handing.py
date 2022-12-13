@@ -2,7 +2,7 @@ import asyncio
 
 import urlextract
 
-from app.main.string_handling import string_handling
+from app.string_handling import string_handling
 
 string = 'https://www.google.com/'
 string1 = 'sfgsdfg'

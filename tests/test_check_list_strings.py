@@ -1,6 +1,6 @@
 import asyncio
 
-from app.main.__main__ import main
+from app.__main__ import main
 
 lst1 = ['https://www.google.com/', 'https://ya.ru/', 'caga', 1213, 'hello']
 lst = ['https://www.google.com/']

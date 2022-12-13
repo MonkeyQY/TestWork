@@ -1,7 +1,7 @@
 import asyncio
 import urlextract
 
-from app.main.string_handling import string_handling
+from app.string_handling import string_handling
 
 
 async def check_list_strings(lst: list[str]) -> dict:

@@ -1,8 +1,6 @@
-import logging
-
 from urlextract import URLExtract
 
-from app.main.check_on_response import check_on_response
+from app.check_on_response import check_on_response
 
 
 async def string_handling(string: str, extractor: URLExtract):

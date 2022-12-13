@@ -1,6 +1,6 @@
 import asyncio
 
-from app.main.check_list_strings import check_list_strings
+from app.check_list_strings import check_list_strings
 
 lst = ['https://www.google.com/', 'https://ya.ru/', 'caga', 1213, 'hello']
 

@@ -1,8 +1,6 @@
 import asyncio
 
-import pytest
-
-from app.main.check_on_response import transformation_tuple_with_responses_in_dict, check_on_response
+from app.check_on_response import transformation_tuple_with_responses_in_dict, check_on_response
 
 
 def test_transformation_tuple_with_responses_in_dict():
